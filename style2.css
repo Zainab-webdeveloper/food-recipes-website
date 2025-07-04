@@ -1,0 +1,53 @@
+body {
+    background-image: url(pexels-fwstudio-33348-129731.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.pasta {
+    margin-left: 800px;
+    margin-bottom: 35px;
+    border: 1px solid brown;
+    border-radius: 10px;
+}
+
+.adjust {
+    margin-top: -300px;
+
+}
+
+h1 {
+    color: saddlebrown;
+}
+
+h3 {
+    color: #6F4E37;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.list {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.text {
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #007BFF;
+}
+
+span {
+    background-color: yellow;
+}
+
+.Next {
+     padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #007BFF;
+    margin-left: 840x;
+}

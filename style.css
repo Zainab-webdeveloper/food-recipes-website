@@ -1,0 +1,32 @@
+body{
+    background-image: url(pexels-goumbik-349609.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 170px;
+    font-size: 50px;
+    color: saddlebrown;
+}
+
+p {
+    text-align: center;
+    font-size: 23px;
+    color: #6F4E37
+}
+
+.text {
+    margin-left: 470px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #007BFF;
+}
+
+.text:hover {
+        color: aliceblue;
+}
+
