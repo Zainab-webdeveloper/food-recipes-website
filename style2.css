@@ -52,5 +52,65 @@ span {
     margin-left: 840x;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+        box-sizing: border-box;
+    }
+
+    .pasta {
+        margin: 20px auto;
+        float: none;
+        width: 90%;
+        max-width: 250px;
+    }
+
+    .adjust {
+        margin-top: 20px;
+        padding: 0 10px;
+    }
+
+    h1 {
+        font-size: 2em;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    h3 {
+        font-size: 1.3em;
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .list {
+        font-size: 1em;
+        padding: 0 5px;
+    }
+
+    .text,
+    .Next {
+        display: block;
+        width: 80%;
+        margin: 20px auto;
+        padding: 12px;
+    }
+
+    .Next {
+        margin-left: auto;
+    }
+
+    h4 {
+        font-size: 1.1em;
+        text-align: center;
+        margin-top: 10px;
+        padding: 0 5px;
+    }
+}
 
 
